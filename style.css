@@ -1,0 +1,23 @@
+.box {
+	border: 1px solid #000;
+	border-radius: 0px;
+	box-sizing: border-box;
+	height: fit-content;
+	padding: 4px;
+	margin: 4px;
+}
+
+.c1 {
+	width: fit-content;
+	box-sizing: border-box;
+	align-items: center;
+	align-content: center;
+}
+
+.div {
+	font-family: sans-serif;
+}
+
+.h1 {
+	font-family: serif;
+}
