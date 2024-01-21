@@ -14,10 +14,10 @@
 	align-content: center;
 }
 
-.div {
+.p {
 	font-family: sans-serif;
 }
 
 .h1 {
-	font-family: 'Georgia';
+	font-family: serif, 'Georgia';
 }
