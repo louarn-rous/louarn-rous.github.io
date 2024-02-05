@@ -18,9 +18,6 @@
 	font-family: sans-serif;
 }
 
-.h1 {
-	font-family: serif;
-}
 
 .th infobox-label {
 	text-align: left;
@@ -32,7 +29,7 @@
 }
 
 .h1 {
-	font-family: Georgia;
+	font-family: 'Georgia';
 	font-weight: normal;
 }
 
