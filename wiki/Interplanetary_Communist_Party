@@ -1,0 +1,66 @@
+e
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>Interplanetary Communist Party - Exopedia
+    </title>
+		<link rel="stylesheet" href="style.css">
+	</head>
+	
+	<body>	
+		<div class="cblock">
+			<h1>Internplanetary Communist Party</h1>
+			<p>From Exopedia, the free encyclopedia</p>
+			<div class="row">
+				<table class="infobox">
+					<tbody>
+						<tr>
+							<th colspan="2">
+								<div>Interplanetary Communist Party</div>
+							</th>
+						</tr>
+						<tr>
+							<th>
+								<p>Preceded by</p>
+							</th>
+							<td>
+								<a href="https://en.wikipedia.org/wiki/International_Communist_Party">ICP</a>
+							</td>
+						</tr>
+						<tr>
+							<th>
+								<p>Ideology</p>
+							</th>
+							<td>
+								<a href="https://en.wikipedia.org/wiki/Left_communism">Left communism</a>
+								<br><a href="https://en.wikipedia.org/wiki/Bordigism">Bordigism</a>
+							</td>
+						</tr>
+						<tr>
+							<th>
+								<a href="https://en.wikipedia.org/wiki/Political_spectrum">Political position</a>
+							</th>
+							<td>
+								<a href="https://en.wikipedia.org/wiki/Far-left">Far-left</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<p>
+					The <b>Interplanetary Communist Party (IPCP)</b> is a <a href="https://en.wikipedia.org/wiki/Left_communism">left communist</a> interplanetary political party.
+       				</p>
+			</div>
+		
+			<h2>Origins</h2>
+			<p>
+				It's dialectical yuo see
+			</p>
+				
+			<h2>Theses</h2>
+			<p>
+				It's dialectical yuo see
+			</p>
+		</div>
+	</body>
+</html>
