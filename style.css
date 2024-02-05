@@ -21,3 +21,8 @@
 .h1 {
 	font-family: serif;
 }
+
+.th infobox-label {
+	text-align: left;
+	vertical-align: top;
+}
